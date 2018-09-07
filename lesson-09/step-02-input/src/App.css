@@ -1,0 +1,9 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  width: 310px;
+}

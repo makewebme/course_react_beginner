@@ -17,3 +17,12 @@
 
 ### Урок 6. Методы жизненного цикла. Умные и глупые компоненты.
 [![Анатомия React для начинающих. Урок 6. Методы жизненного цикла. Умные и глупые компоненты.](http://img.youtube.com/vi/EogLgSKfpVk/maxresdefault.jpg)](https://www.youtube.com/watch?v=EogLgSKfpVk)
+
+### Урок 7. Анатомия React для начинающих. Урок 7. create-react-app и подробнее про state
+[![Анатомия React для начинающих. Урок 7. create-react-app и подробнее про state](http://img.youtube.com/vi/sKwVUOHhcF8/maxresdefault.jpg)](https://www.youtube.com/watch?v=sKwVUOHhcF8)
+
+### Урок 8. Анатомия React для начинающих. Урок 8. Обработчики событий и условный рендеринг
+[![Анатомия React для начинающих. Урок 8. Обработчики событий и условный рендеринг](http://img.youtube.com/vi/BqokBW51X40/maxresdefault.jpg)](https://www.youtube.com/watch?v=BqokBW51X40)
+
+### Урок 9. Анатомия React для начинающих. Урок 9. Списки и формы. (Не)контролируемые компоненты.
+[![Анатомия React для начинающих. Урок 9. Списки и формы. (Не)контролируемые компоненты.](http://img.youtube.com/vi/Fml4KRonKXk/maxresdefault.jpg)](https://www.youtube.com/watch?v=Fml4KRonKXk)
