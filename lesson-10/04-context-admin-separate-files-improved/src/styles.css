@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+}
+
+button {
+  font-size: inherit;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 300;
+}
+
+input {
+  font-size: inherit;
+  width: calc(100% - 30px);
+}
+
+.btnActive {
+  font-weight: 700;
+}
+
+.appWrapper {
+  display: grid;
+  grid-template-columns: 1fr 200px;
+  grid-template-rows: 70px calc(100vh - 70px);
+  width: 1000px;
+  margin: 0 auto;
+  border-left: 3px solid #aaa;
+  border-right: 3px solid #aaa;
+  box-shadow: 0 0 10px #aaa;
+}
+
+.sectionHeader {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 2;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-bottom: 3px solid #aaa;
+  padding: 20px 0;
+}
+
+.sectionMain {
+  padding: 20px;
+}
+
+.sectionMain table {
+  text-align: center;
+  border: 1px solid #aaa;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.sectionMain button {
+  display: block;
+  margin: 0 auto;
+}
+
+.sectionSidebar {
+  padding-left: 20px;
+  padding-top: 20px;
+  border-left: 3px solid #aaa;
+}
+
+.usersOnline {
+  margin-top: 0;
+}
